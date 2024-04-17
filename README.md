@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gonzalezdemostenes
-- 👀 I’m interested in working on ADF to extract data out of DocuSign and place it in Azure SQL Database
-- 🌱 I’m currently learning to get my certifications in Azure
+- 👀 I’m interested in working with Azure Data Factory, Azure Synapse on projects realated to Azure Data Engineering
+- 🌱 I’m currently studying to get my certifications as Azure Data Engineer
 - 💞️ I’m looking to collaborate on whatever is interesting and challenging to me
-- 📫 How to reach me by email demostenes_gonzalez@msn.com
+- 📫 How to reach me by email demostenes.gonzalez@micloud.com
 
 <!---
 gonzalezdemostenes/gonzalezdemostenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
